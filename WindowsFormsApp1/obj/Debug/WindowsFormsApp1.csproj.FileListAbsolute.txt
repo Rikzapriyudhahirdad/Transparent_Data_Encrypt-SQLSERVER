@@ -1,0 +1,48 @@
+C:\Users\nvgi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nvgi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nvgi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nvgi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\nvgi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nvgi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\nvgi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nvgi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nvgi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nvgi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\nvgi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\nvgi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nvgi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\e-SIAP.exe.config
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\e-SIAP.exe.manifest
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\e-SIAP.application
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\e-SIAP.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\e-SIAP.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\e-SIAP.exe.manifest
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\e-SIAP.application
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\e-SIAP.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\e-SIAP.pdb
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER VI\ABD E  E1.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER VI\ABD E  E1.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\e-SIAP.exe
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER VI\ABD E  E1.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\e-SIAP.pdb
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER VI\ABD E  E1.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\e-SIAP.exe.config
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER VI\ABD E  E1.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\e-SIAP.exe.manifest
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER VI\ABD E  E1.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\e-SIAP.application
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER VI\ABD E  E1.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\e-SIAP.exe
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER VI\ABD E  E1.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\e-SIAP.pdb
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER VI\ABD E  E1.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER VI\ABD E  E1.5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER VI\ABD E  E1.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER VI\ABD E  E1.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER VI\ABD E  E1.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER VI\ABD E  E1.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER VI\ABD E  E1.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER VI\ABD E  E1.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\e-SIAP.exe.manifest
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER VI\ABD E  E1.5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\e-SIAP.application

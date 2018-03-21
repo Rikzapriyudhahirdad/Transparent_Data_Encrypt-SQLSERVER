@@ -1,0 +1,16 @@
+USE master;  
+GO  
+drop master key;
+CREATE MASTER KEY ENCRYPTION BY PASSWORD = '<<password yg kamu inginkan>>';  
+go  
+CREATE CERTIFICATE MyServerCert WITH SUBJECT = 'My DEK Certificate';  
+go  
+USE db_latihan;  
+GO  
+CREATE DATABASE ENCRYPTION KEY  
+WITH ALGORITHM = AES_128  
+ENCRYPTION BY SERVER CERTIFICATE MyServerCert;  
+GO  
+ALTER DATABASE <<nama database kamu>>
+SET ENCRYPTION ON;  
+GO
